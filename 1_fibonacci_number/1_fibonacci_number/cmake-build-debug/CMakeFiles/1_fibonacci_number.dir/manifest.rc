@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Metehan/CLionProjects/1_fibonacci_number/cmake-build-debug/CMakeFiles/1_fibonacci_number.dir/embed.manifest"

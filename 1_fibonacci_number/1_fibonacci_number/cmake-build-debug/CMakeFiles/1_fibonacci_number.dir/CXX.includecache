@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Metehan/CLionProjects/1_fibonacci_number/main.cpp
+iostream
+-
+cmath
+C:/Users/Metehan/CLionProjects/1_fibonacci_number/cmath
+

@@ -1,0 +1,3 @@
+C:/Users/Metehan/CLionProjects/5_1_money_change_again/cmake-build-debug/CMakeFiles/5_1_money_change_again.dir
+C:/Users/Metehan/CLionProjects/5_1_money_change_again/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Metehan/CLionProjects/5_1_money_change_again/cmake-build-debug/CMakeFiles/rebuild_cache.dir

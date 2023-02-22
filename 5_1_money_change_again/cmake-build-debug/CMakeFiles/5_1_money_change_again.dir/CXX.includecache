@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Metehan/CLionProjects/5_1_money_change_again/main.cpp
+iostream
+-
+cmath
+-
+vector
+C:/Users/Metehan/CLionProjects/5_1_money_change_again/vector
+
